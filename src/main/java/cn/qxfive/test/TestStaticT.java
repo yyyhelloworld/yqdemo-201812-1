@@ -15,6 +15,11 @@ public class TestStaticT {
 
     public static void main(String[] args) {
         ArrayList<String> strings=new ArrayList<>();
+        System.out.println("yq-dev");
         test(new ArrayList<Float>());
     }
+    public static void testT(){
+        System.out.println("yesterday ");
+    }
+
 }
